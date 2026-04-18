@@ -61,14 +61,6 @@ Notebook 04 — Publication-Ready Visualizations
 - Final 2×2 dashboard (dark background, high resolution)
 
 
-## 📊 Dashboard Preview
-
-![Dashboard](visuals/pub/PUB_06_dashboard_final.png)
-
-![KPI Banner](visuals/pub/PUB_01_kpi_banner.png)
-
-
-
 ## 🔑 Key Results & Insights
 
 - 📈 +15 billion accounts compromised worldwide between 2007 and 2024
